@@ -1,0 +1,23 @@
+Privacy Policy for Sheets - Automation Weekly Schedule
+
+1. Introduction
+We built the Sheets - Automation Weekly Schedule as a Free app. This SERVICE is provided by Fransiska Januar at no cost and is intended for use as is. This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
+
+2. Information Collection and Use
+Our application requests access to specific Google user data, such as Google Sheets and Google Drive, solely for the purpose of automating data transfers and managing operational dashboards.
+
+We do not collect, store, or save your personal data or document contents on any external third-party servers.
+
+All data processing happens directly between your Google Account and the Google Apps Script environment.
+
+3. Google Workspace APIs Data Usage
+Sheets - Automation Weekly Schedule's use and transfer to any other app of information received from Google APIs will adhere to the Google API Services User Data Policy, including the Limited Use requirements.
+
+4. Data Sharing and Disclosure
+We do not share, sell, or distribute your personal data or document contents to any third parties.
+
+5. Security
+We value your trust in providing us your information. The application relies entirely on Google's security infrastructure and OAuth 2.0 authentication. You can revoke the application's access at any time through your Google Account's security settings.
+
+6. Contact Us
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at cikafjp@gmail.com.
