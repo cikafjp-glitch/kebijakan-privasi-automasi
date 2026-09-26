@@ -1,4 +1,3 @@
-<meta name="google-site-verification" content="SHGMMCX3PaQDk8TJ5M5kDd9DxgUydN9rNtmgDn0hzUE" />
 Privacy Policy for Sheets - Automation Weekly Schedule
 
 1. Introduction
