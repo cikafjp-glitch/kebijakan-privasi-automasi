@@ -1,23 +1,18 @@
-Privacy Policy for Sheets - Automation Weekly Schedule
+# Sheets - Automation Weekly Schedule
 
-1. Introduction
-We built the Sheets - Automation Weekly Schedule as a Free app. This SERVICE is provided by Fransiska Januar at no cost and is intended for use as is. This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
+[Click here to view our Privacy Policy](https://cikafjp-glitch.github.io/kebijakan-privasi-automasi/)
 
-2. Information Collection and Use
-Our application requests access to specific Google user data, such as Google Sheets and Google Drive, solely for the purpose of automating data transfers and managing operational dashboards.
+## Privacy Policy
+We built the Sheets - Automation Weekly Schedule as a Free app. This SERVICE is provided at no cost and is intended for use as is.
 
-We do not collect, store, or save your personal data or document contents on any external third-party servers.
+**1. Google User Data Accessed**
+This application accesses specific Google user data, strictly limited to Google Sheets (to read and write dashboard data) and Google Drive (to locate and read operational source files).
 
-All data processing happens directly between your Google Account and the Google Apps Script environment.
+**2. How We Use Google User Data**
+The data accessed is used exclusively to automate the transfer and formatting of reception desk data from raw Drive files into a central Google Sheet dashboard. We do not use your data for any other purposes.
 
-3. Google Workspace APIs Data Usage
-Sheets - Automation Weekly Schedule's use and transfer to any other app of information received from Google APIs will adhere to the Google API Services User Data Policy, including the Limited Use requirements.
+**3. Data Protection Mechanisms**
+All data processing happens securely and internally within the user's Google Workspace environment. No user data is transmitted to, stored on, or shared with any external third-party servers. We do not collect or sell your personal data.
 
-4. Data Sharing and Disclosure
-We do not share, sell, or distribute your personal data or document contents to any third parties.
-
-5. Security
-We value your trust in providing us your information. The application relies entirely on Google's security infrastructure and OAuth 2.0 authentication. You can revoke the application's access at any time through your Google Account's security settings.
-
-6. Contact Us
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at cikafjp@gmail.com.
+**4. Contact Us**
+If you have any questions, contact us at cikafjp@gmail.com.
